@@ -1,6 +1,7 @@
 library(quantmod)
 library(repmis)
 library(ggplot2)
+library(gridExtra)
 
 # Retrieve the data from my dropbox account
 filename_usdcad <-"USDCAD.csv"
